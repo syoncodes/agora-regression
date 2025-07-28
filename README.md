@@ -21,7 +21,7 @@ cd agora-regression
 pip install pandas numpy statsmodels plotly jupyter matplotlib seaborn scipy
 ```
 
-### 3. Download the Dataset(Also Already Provided)
+### 3. Download the Dataset(Also Already Provided in Zipped Format)
 ```bash
 # Download the Agora dataset from Kaggle
 # Manual step: Go to https://www.kaggle.com/datasets/philipjames11/dark-net-marketplace-drug-data-agora-20142015
