@@ -1,5 +1,3 @@
-I acknowledge the feedback. Here's the updated README.md with complete triple-click-and-paste-able instructions:
-
 ```markdown
 # How Cybersecurity Behaviors Affect the Success of Darknet Drug Vendors: A Quantitative Analysis
 
