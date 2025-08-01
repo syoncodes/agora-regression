@@ -254,6 +254,7 @@ matplotlib>=3.3.0
 seaborn>=0.11.0
 scipy>=1.7.0
 jupyter>=1.0.0
+kaleido>=1.0.0
 ```
 
 **Status: ACKNOWLEDGED AND FIXED**
